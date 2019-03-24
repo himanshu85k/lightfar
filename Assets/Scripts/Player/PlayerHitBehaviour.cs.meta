@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c7c04ea03ddcd141b7128268d801617
+timeCreated: 1499100282
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerExplosionParticles: {instanceID: 0}
+  - obstacleBurst: {instanceID: 0}
+  - powerUpAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
